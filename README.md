@@ -1,4 +1,4 @@
-### Hi, I'm Jeonghyeon Lee 👋
+# Hi, I'm Jeonghyeon Lee 👋
 
 <!--
 **JHyeon0915/JHyeon0915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 ![REACT.JS](https://img.shields.io/badge/-REACT.JS-yellow?style=for-the-badge)
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-006633?style=for-the-badge)
 
+<h2> 📫 How to reach me: </h2>
+![IG](https://github.com/JHyeon0915/JHyeon0915/images/main/instagramicon.svg)
+![IG](https://github.com/JHyeon0915/JHyeon0915/images/main/linkedinicon.svg)
