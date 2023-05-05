@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jeonghyeon Lee 👋
 
 <!--
 **JHyeon0915/JHyeon0915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- My Teck Stack 📚
+![HTML](https://img.shields.io/badge/-HTML-red)
+![CSS3](https://img.shields.io/badge/-CSS3-3399FF)
+![JS](https://img.shields.io/badge/-JAVASCRIPT-FFEE00)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-blue)
+![REACT.JS](https://img.shields.io/badge/-REACT.JS-yellow)
+![NODE.JS](https://img.shields.io/badge/-NODE.JS-006633)
+
