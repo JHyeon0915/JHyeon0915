@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>My Teck Stack 📚</h2>
+
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS3](https://img.shields.io/badge/-CSS3-3399FF)
 ![JS](https://img.shields.io/badge/-JAVASCRIPT-FFEE00)
