@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 <h2> 📫 How to reach me: </h2>
 
-![IG](https://github.com/JHyeon0915/JHyeon0915/blob/main/images/instagramicon.svg?raw=true)
-![IG](https://github.com/JHyeon0915/JHyeon0915/blob/main/images/linkedinicon.png?raw=true)
+<img src="https://github.com/JHyeon0915/JHyeon0915/blob/main/images/instagramicon.svg?raw=true" alt="IG" width="50" height="50">
+<img src="https://github.com/JHyeon0915/JHyeon0915/blob/main/images/linkedinicon.png?raw=true" alt="IG" width="50" height="50">
