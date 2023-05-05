@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS3](https://img.shields.io/badge/-CSS3-3399FF)
-![JS](https://img.shields.io/badge/-JAVASCRIPT-FFEE00)
+![JS](https://img.shields.io/badge/-JAVASCRIPT-%FFEE00?style=for-the-badge&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-blue)
 ![REACT.JS](https://img.shields.io/badge/-REACT.JS-yellow)
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-006633)
