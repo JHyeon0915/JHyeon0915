@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <h2>My Tech Stack 📚</h2>
 
-![HTML](https://img.shields.io/badge/-HTML-%red?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-%3399FF?style=for-the-badge)
-![JS](https://img.shields.io/badge/-JAVASCRIPT-%FFCE5A?style=for-the-badge&logoColor=white)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-%blue?style=for-the-badge)
-![REACT.JS](https://img.shields.io/badge/-REACT.JS-%yellow?style=for-the-badge)
-![NODE.JS](https://img.shields.io/badge/-NODE.JS-%006633?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-3399FF?style=for-the-badge)
+![JS](https://img.shields.io/badge/-JAVASCRIPT-FFCE5A?style=for-the-badge&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-blue?style=for-the-badge)
+![REACT.JS](https://img.shields.io/badge/-REACT.JS-yellow?style=for-the-badge)
+![NODE.JS](https://img.shields.io/badge/-NODE.JS-006633?style=for-the-badge)
 
