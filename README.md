@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-006633?style=for-the-badge)
 
 <h2> 📫 How to reach me: </h2>
-![IG](https://github.com/JHyeon0915/JHyeon0915/images/main/instagramicon.svg)
-![IG](https://github.com/JHyeon0915/JHyeon0915/images/main/linkedinicon.svg)
+![IG](https://github.com/JHyeon0915/JHyeon0915/blob/main/images/instagramicon.svg)
+![IG](https://github.com/JHyeon0915/JHyeon0915/blob/main/images/instagramicon.svg)
