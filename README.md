@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -23,6 +22,12 @@ Here are some ideas to get you started:
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-blue?style=for-the-badge)
 ![REACT.JS](https://img.shields.io/badge/-REACT.JS-yellow?style=for-the-badge)
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-006633?style=for-the-badge)
+
+<h2>🔭 I’m currently working on ...</h2>
+Route Master
+* The integrated travle web application
+* Provide information of flights, activities, accomodations and etc with a budget split function on a time and date based view
+* If you are interesed in more about this...: https://github.com/route-master
 
 <h2> 📫 How to reach me: </h2>
 
