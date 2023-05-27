@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<b>Enjoy exploring my github! 😎</b>
+<br></br>
+Also, if you are interested, 
+<a href="https://bbani.tistory.com/">
+this is the link for my blog!
+</a>
+
 <h2>My Tech Stack 📚</h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge)
