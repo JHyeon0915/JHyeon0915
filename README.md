@@ -1,5 +1,7 @@
 # Hi, I'm Jeonghyeon Lee 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHyeon0915&show_icons=true&theme=dracula&bg_color=eaeef2&text_color=000000)
+
 <!--
 **JHyeon0915/JHyeon0915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
