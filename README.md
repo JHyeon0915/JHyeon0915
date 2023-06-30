@@ -32,6 +32,8 @@ this is the link for my blog!
 ![REACT.JS](https://img.shields.io/badge/-REACT.JS-yellow?style=for-the-badge)
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-006633?style=for-the-badge)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHyeon0915&layout=compact)
+
 <h2>🔭 I’m currently working on ...</h2>
 <b>Route Master</b>
 
