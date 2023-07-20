@@ -35,7 +35,7 @@ this is the link for my blog!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHyeon0915&layout=compact)
 
 <h2>🔭 I’m currently working on ...</h2>
-<b>Route Master</b>
+<h3>Route Master</h3>
 
 * The integrated travle web application
 * Provide information of flights, activities, accomodations and etc with a budget split function on a time and date based view
