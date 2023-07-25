@@ -37,7 +37,7 @@ this is the link for my blog!
 <h2>🔭 I’m currently working on ...</h2>
 <h3>Route Master</h3>
 
-* The integrated travle web application
+* The integrated travel web application
 * Provide information of flights, activities, accomodations and etc with a budget split function on a time and date based view
 * If you are interesed in more about this...: https://github.com/route-master
 
