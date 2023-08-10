@@ -38,7 +38,7 @@ this is the link for my blog!
 <h3>Route Master</h3>
 
 * The integrated travel web application
-* Provide information of flights, activities, accomodations and etc with a budget split function on a time and date based view
+* Provide information of activities and real time recommendations with a budget split function on a time and date based view
 * If you are interesed in more about this...: https://github.com/route-master
 
 <h2> 📫 How to reach me: </h2>
