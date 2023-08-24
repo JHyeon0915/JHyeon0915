@@ -1,4 +1,5 @@
 # Hi, I'm Jeonghyeon Lee 👋
+<b>Enjoy exploring my github! 😎</b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHyeon0915&show_icons=true&theme=dracula&bg_color=eaeef2&text_color=000000)
 
@@ -16,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<b>Enjoy exploring my github! 😎</b>
-<br></br>
 Also, if you are interested, 
 <a href="https://bbani.tistory.com/">
 this is the link for my blog!
