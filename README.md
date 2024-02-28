@@ -34,6 +34,13 @@ this is the link for my blog!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHyeon0915&layout=compact)
 
 <h2>🔭 I’m currently working on ...</h2>
+<h3>2024 Google Solution Challenge - STREcording</h3>
+
+* The stress management app
+* Enable users to discover unaware emotions and stress through daily voice diary
+* If you are interesed in more about this...: https://github.com/Solution-Challenge-stress-solution
+
+<h2>🔭 I’ve worked on ...</h2>
 <h3>Route Master</h3>
 
 * The integrated travel web application
