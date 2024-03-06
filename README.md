@@ -30,6 +30,7 @@ this is the link for my blog!
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-blue?style=for-the-badge)
 ![REACT.JS](https://img.shields.io/badge/-REACT.JS-yellow?style=for-the-badge)
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-006633?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHyeon0915&layout=compact)
 
