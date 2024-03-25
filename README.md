@@ -24,12 +24,16 @@ this is the link for my blog!
 
 <h2>My Tech Stack 📚</h2>
 
-![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-3399FF?style=for-the-badge)
-![JS](https://img.shields.io/badge/-JAVASCRIPT-FFCE5A?style=for-the-badge&logoColor=white)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-blue?style=for-the-badge)
-![REACT.JS](https://img.shields.io/badge/-REACT.JS-yellow?style=for-the-badge)
-![NODE.JS](https://img.shields.io/badge/-NODE.JS-006633?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHyeon0915&layout=compact)
