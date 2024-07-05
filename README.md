@@ -40,12 +40,18 @@ this is the link for my blog!
 
 <h2>🔭 I’m currently working on ...</h2>
 
+<h3>Tang Squad</h3>
+
+* A Scuba diving platform where divers can gather and dive together like Blue Tang squads!
+* Use React Native, Nativewind, expo, and TypeScript
+* If you are interested in more about this...: [https://github.com/route-master](https://github.com/TangSquad/front-end)
+
 <h3>Route Master V2</h3>
 
 * Add chat function within each plan
-* Sophisticate overall desgin
+* Sophisticate overall design
 * Refactor Front-end code
-* If you are interesed in more about this...: https://github.com/route-master
+* If you are interested in more about this...: https://github.com/route-master
 
 <h2>🔭 I’ve worked on ...</h2>
 
@@ -53,13 +59,13 @@ this is the link for my blog!
 
 * The stress management app
 * Enable users to discover unaware emotions and stress through daily voice diary
-* If you are interesed in more about this...: https://github.com/Solution-Challenge-stress-solution
+* If you are interested in more about this...: https://github.com/Solution-Challenge-stress-solution
 
 <h3>Route Master V1</h3>
 
 * The integrated travel web application
-* Provide information of activities and real time recommendations with a budget split function on a time and date based view
-* If you are interesed in more about this...: https://github.com/route-master
+* Provide information of activities and real-time recommendations with a budget split function on a time and date based view
+* If you are interested in more about this...: https://github.com/route-master
 
 <h2> 📫 How to reach me: </h2>
 
