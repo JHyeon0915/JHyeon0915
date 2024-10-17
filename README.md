@@ -44,7 +44,7 @@ this is the link for my blog!
 
 * A Scuba diving platform where divers can gather and dive together like Blue Tang squads!
 * Use React Native, Nativewind, expo, and TypeScript
-* If you are interested in more about this...: [https://github.com/route-master](https://github.com/TangSquad/front-end)
+* If you are interested in more about this...: [https://github.com/TangSquad/front-end](https://github.com/TangSquad/front-end)
 
 <h3>Route Master V2</h3>
 
