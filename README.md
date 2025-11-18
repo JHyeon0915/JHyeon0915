@@ -40,20 +40,22 @@ this is the link for my blog!
 
 <h2>🔭 I’m currently working on ...</h2>
 
+<h3>Feline Purrfect</h3>
+
+* A daily behavior and health tracker application for cat owners 🐱
+* It analyzes the log data, provides the list of diseases, and gives you a little fun with breed finder!
+* React Native, Expo, Nativewind, and TypeScript
+* Serverless architecture on AWS
+
+* If you are interested in more about this...: [https://github.com/JHyeon0915/CICS5411-FelinePurrfect](https://github.com/JHyeon0915/CICS5411-FelinePurrfect)
+
+<h2>🔭 I’ve worked on ...</h2>
+
 <h3>Tang Squad</h3>
 
 * A Scuba diving platform where divers can gather and dive together like Blue Tang squads!
 * Use React Native, Nativewind, expo, and TypeScript
 * If you are interested in more about this...: [https://github.com/TangSquad/front-end](https://github.com/TangSquad/front-end)
-
-<h3>Route Master V2</h3>
-
-* Add chat function within each plan
-* Sophisticate overall design
-* Refactor Front-end code
-* If you are interested in more about this...: https://github.com/route-master
-
-<h2>🔭 I’ve worked on ...</h2>
 
 <h3>2024 Google Solution Challenge - STREcording</h3>
 
