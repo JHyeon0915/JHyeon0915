@@ -1,4 +1,4 @@
-# Hi, I'm Jeonghyeon Lee 👋
+# Hi, I'm Jeonghyeon(Ember) Lee 👋
 <b>Enjoy exploring my github! 😎</b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHyeon0915&show_icons=true&theme=dracula&bg_color=eaeef2&text_color=000000)
