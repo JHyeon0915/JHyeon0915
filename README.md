@@ -26,6 +26,7 @@ Visit my blog if you are interested 👉
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHyeon0915&layout=compact)
 
 <h2>🔭 I'm currently working on ...</h2>
